@@ -1,3 +1,3 @@
 # Projeto-integrador
 Primeiro projeto integrador,
-explicacao do projeto
+explicação do projeto: Projeto em equipe de 6 pessoas.
