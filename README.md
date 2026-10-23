@@ -1,4 +1,4 @@
-<img width="797" height="775" alt="Captura de tela 2026-10-22 155635" src="https://github.com/user-attachments/assets/e9db46ac-2c73-49e7-ab5b-a52b38d92107" /># Projeto-integrador
+# Projeto-integrador
 Primeiro projeto integrador,
 explicação do projeto: Projeto em equipe de 6 pessoas(2 programadores, 2 designs e 2 P.O),
  a ideia era modificar/criar um programa inclusivo, nos escolhemos um programa de lembretes
